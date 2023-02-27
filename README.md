@@ -8,3 +8,8 @@ Im Zuge meiner Ausbildung zum **Frontend Devoloper** werde ich nachfolgende Spra
 - HTML
 - CSS
 - Javascript
+
+
+Meine Ausbildung absolviere ich im Rahmen eines _Bootcamps_ bei:
+
+[**Neue Fische**](https://www.neuefische.de/)
