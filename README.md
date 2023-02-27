@@ -12,11 +12,14 @@ Im Zuge meiner Ausbildung zum **Frontend Devoloper** werde ich nachfolgende Spra
 
 Meine Ausbildung absolviere ich im Rahmen eines _Bootcamps_ bei:
 
-
+<br>
+<br>
 
 ![neufischelogo3](https://user-images.githubusercontent.com/117660396/221603183-fff3c187-adb6-41cd-8324-e492d2d3df48.jpeg)
 [**Neue Fische**](https://www.neuefische.de/)
 
+<br>
+<br>
 
 ![Visitor Count](https://profile-counter.glitch.me/KivancUlucan/count.svg)
 
