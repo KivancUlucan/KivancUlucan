@@ -17,4 +17,4 @@ Meine Ausbildung absolviere ich im Rahmen eines _Bootcamps_ bei:
 [**Neue Fische**](https://www.neuefische.de/)
 
 
-![Visitor Count](https : //profile-counter.glitch.me/KivancUlucan/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KivancUlucan/count.svg)
