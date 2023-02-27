@@ -1,4 +1,4 @@
 # Welcome to my Page
 Dies sind meine ersten Versuche in GitHUb
 
-![Baum](https://media.istockphoto.com/id/1446445400/de/foto/kind-mit-der-natur-verbinden.jpg?s=2048x2048&w=is&k=20&c=aFhY0uYpUmmrUOSQr3Kc_ee-QTkwAFqNM0ljkq7ZkKc=)
+![grüssende Holzfiguren](https://images.unsplash.com/photo-1610030852212-438471e34223?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80)
